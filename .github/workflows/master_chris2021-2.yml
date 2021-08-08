@@ -34,5 +34,5 @@ jobs:
       with:
         app-name: chris2021-2
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_93AC831C228A48A79221C28E42282C45 }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_31634D8934BD4B35877CBEE00D88AD42 }}
 
